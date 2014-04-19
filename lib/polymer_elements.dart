@@ -17,7 +17,7 @@ export 'package:polymer_elements/polymer_flex_layout/polymer_flex_panel.dart';
 //export 'package:polymer_elements/polymer_google_jsapi/polymer_google_jsapi.dart'; 
 export 'package:polymer_elements/polymer_grid_layout/polymer_grid_layout.dart'; 
 // export 'package:polymer_elements/polymer_jsonp/polymer_jsonp.dart'; 
-// export 'package:polymer_elements/polymer_key_helper/polymer_key_helper.dart'; 
+export 'package:polymer_elements/polymer_key_helper/polymer_key_helper.dart'; 
 export 'package:polymer_elements/polymer_layout/polymer_layout.dart';
 export 'package:polymer_elements/polymer_layout/polymer_slide.dart'; 
 //export 'package:polymer_elements/polymer_layout/polymer_list.dart';
